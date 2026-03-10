@@ -1,4 +1,3 @@
-//luogu1972
 #include<bits/stdc++.h>
 #define lowbit(x) ((x) & (-x))
 using namespace std;
